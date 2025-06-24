@@ -1,0 +1,10 @@
+# vtk DataFile Version 3.0
+Random Data for SPP
+ASCII
+DATASET POLYDATA
+POINTS 1 float
+18.128595 18.484387 0.000000
+
+POINT_DATA 1
+VECTORS velocity float
+-0.323145 -0.946349 0.000000
